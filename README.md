@@ -12,7 +12,7 @@ This project focuses on developing a **deep learning-based approach** for the **
 
 ## Dataset
 The dataset is sourced from **Kaggle** ([Early Nutrient Stress Detection of Plants](https://www.kaggle.com/datasets/raiaone/early-nutrient-stress-detection-of-plants)). It consists of **2,700 high-resolution images**.
-
+![Training and Validation Accuracy and Loss](Results/Picture11.png)
 ## Methodology
 ### 1. Data Preprocessing
 - **Laplacian of Gaussian (LoG):** Enhances structural details like venation and fine leaf textures.
